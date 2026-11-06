@@ -1,0 +1,6 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno y credenciales
+backend/.env
+.env
